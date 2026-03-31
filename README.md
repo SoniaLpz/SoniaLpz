@@ -1,5 +1,4 @@
 <h1 align="center">About Me</h1>
----
 
 ### About Me : 
 Full-Stack Software Engineer, with experience in JavaScript, React and TypeScript. Specialized in server-side development with Node.js, Express, Koa, SQL and MongoDB.  
