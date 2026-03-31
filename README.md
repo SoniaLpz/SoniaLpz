@@ -9,6 +9,7 @@ Passionate with Full-Stack development, I strive to solve real-world problems th
 In my free time, I enjoy cooking and exploring new cuisine through my travels. I also enjoy reading and doing yoga.
 </p>
 
+***
 
 ### ⚡ Tech Stack 
 
@@ -27,8 +28,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
    
 </p>
-
---
+***
 ### 🚀 Featured Projects 
 
 
