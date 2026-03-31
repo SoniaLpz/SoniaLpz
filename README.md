@@ -31,6 +31,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
 
 ### 🚀 Featured Projects 
 
+
 ##TravelCrew 
 
 A collaborative application for planning trips in groups and invite with 100% automated invitation system. 
