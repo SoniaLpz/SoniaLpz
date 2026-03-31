@@ -29,10 +29,9 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
 
 ***
 
-### 🚀 Featured Projects 
+## 🚀 Featured Projects 
 
-
-##TravelCrew 
+###TravelCrew 
 
 A collaborative application for planning trips in groups and invite with 100% automated invitation system. 
 
@@ -46,7 +45,7 @@ FrontEnd: React, Vite, Tailwind, React Router, React Leaflet and FullCalendar.
 
 BackEnd : Nodejs, Express, PostgreSQL, Sequelize, Nodemailer and JWT. 
 
-## PetAdopt
+### PetAdopt
 As part of a 3 people team, we implemented a comprehensive unit testing suite using TypeScript. 
 
 I designed test cases for the animal management controller and verifying authentication logic, for both user registration and login. 
@@ -59,7 +58,7 @@ We collaborated to integrate E2E Testing using Cypress.
 
 TechStack :  React, TypeScript, Vitest, Jest, Cypress Leaflet, Express, MongoDB and JWT. 
 
-## PocketDoc
+### PocketDoc
 
 FrontEnd : React, React Router, Json Server, JsPdf & Youtube 
 
