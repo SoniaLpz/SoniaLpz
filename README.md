@@ -9,6 +9,7 @@ Passionate with Full-Stack development, I strive to solve real-world problems th
 In my free time, I enjoy cooking and exploring new cuisine through my travels. I also enjoy reading and doing yoga.
 </p>
 
+
 ### ⚡ Tech Stack 
 
 <p align="left">
@@ -27,5 +28,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
    
 </p>
 
----
+--
 ### 🚀 Featured Projects 
+
+
