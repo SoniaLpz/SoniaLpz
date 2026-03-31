@@ -28,7 +28,9 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
    
 </p>
+
 ***
+
 ### 🚀 Featured Projects 
 
 
