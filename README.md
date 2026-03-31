@@ -9,7 +9,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
 
 ***
 
-### ⚡ Tech Stack 
+## ⚡ Tech Stack 
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -31,7 +31,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
 
 ## 🚀 Featured Projects 
 
-###TravelCrew 
+### TravelCrew 
 
 A collaborative application for planning trips in groups and invite with 100% automated invitation system. 
 
