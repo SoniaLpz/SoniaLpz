@@ -31,4 +31,39 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
 
 ### 🚀 Featured Projects 
 
+##TravelCrew 
+
+A collaborative application for planning trips in groups and invite with 100% automated invitation system. 
+
+As part of a 3 people team, I implemented a responsive theme management system for Light/Dark mode, developed the travel planning interface using React and Tailwind CSS. 
+
+I integrated a custom-built invitation form linked to Nodemailer. 
+
+I ensured seamless synchronization between the React frontend and Node.js backend for the authentication service. 
+
+FrontEnd: React, Vite, Tailwind, React Router, React Leaflet and FullCalendar. 
+
+BackEnd : Nodejs, Express, PostgreSQL, Sequelize, Nodemailer and JWT. 
+
+## PetAdopt
+As part of a 3 people team, we implemented a comprehensive unit testing suite using TypeScript. 
+
+I designed test cases for the animal management controller and verifying authentication logic, for both user registration and login. 
+
+I integrated testing for the successful login flow and the dynamic display of the "Favorite Pets" list. 
+
+We collaborated to integrate E2E Testing using Cypress. 
+
+
+
+TechStack :  React, TypeScript, Vitest, Jest, Cypress Leaflet, Express, MongoDB and JWT. 
+
+## PocketDoc
+
+FrontEnd : React, React Router, Json Server, JsPdf & Youtube 
+
+Developed a React application with JSON Server, enabling symptom-based access to natural remedies for 8 symptoms.
+
+
+
 
