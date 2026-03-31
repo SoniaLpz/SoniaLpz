@@ -6,7 +6,7 @@ Full-Stack Software Engineer, with experience in JavaScript, React and TypeScrip
 Passionate with Full-Stack development, I strive to solve real-world problems through software development. I enjoy learning new skills and am constantly looking for ways to improve my knowledge.   
 
 In my free time, I enjoy cooking and exploring new cuisine through my travels. I also enjoy reading and doing yoga.
----
+
 ### ⚡ Tech Stack 
 
 <p align="left">
