@@ -1,12 +1,14 @@
 <h1 align="center">About Me</h1>
 
 ### About Me : 
-Full-Stack Software Engineer, with experience in JavaScript, React and TypeScript. Specialized in server-side development with Node.js, Express, Koa, SQL and MongoDB.  
+
+<p> Full-Stack Software Engineer, with experience in JavaScript, React and TypeScript. Specialized in server-side development with Node.js, Express, Koa, SQL and MongoDB.  
 
 Passionate with Full-Stack development, I strive to solve real-world problems through software development. I enjoy learning new skills and am constantly looking for ways to improve my knowledge.   
 
 In my free time, I enjoy cooking and exploring new cuisine through my travels. I also enjoy reading and doing yoga.
-
+</p>
+---
 ### ⚡ Tech Stack 
 
 <p align="left">
@@ -22,11 +24,7 @@ In my free time, I enjoy cooking and exploring new cuisine through my travels. I
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  
-  
-  
-  
-  
+   
 </p>
 
 ---
