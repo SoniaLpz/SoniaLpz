@@ -59,6 +59,7 @@ BackEnd :
 <img src="https://img.shields.io/badge/Nodemailer-007ACC?style=for-the-badge&logo=sendgrid&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
+
 ### PetAdopt
 As part of a 3 people team, we implemented a comprehensive unit testing suite using TypeScript. 
 
@@ -80,6 +81,7 @@ TechStack :
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 </p>
+
 ### PocketDoc
 
 The goal of this project was to access to natural remedies depending on the symptom you are experiencing. The content of the app is purely informational. 
