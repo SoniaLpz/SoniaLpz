@@ -42,21 +42,23 @@ I integrated a custom-built invitation form linked to Nodemailer.
 I ensured seamless synchronization between the React frontend and Node.js backend for the authentication service. 
 
 FrontEnd: 
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/FullCalendar-black?style=for-the-badge&logo=calendar&logoColor=white" />
-
+</p>
 BackEnd :
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/Nodemailer-007ACC?style=for-the-badge&logo=sendgrid&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-
+</p>
 ### PetAdopt
 As part of a 3 people team, we implemented a comprehensive unit testing suite using TypeScript. 
 
@@ -67,6 +69,7 @@ I integrated testing for the successful login flow and the dynamic display of th
 We collaborated to integrate E2E Testing using Cypress. 
 
 TechStack : 
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
@@ -76,20 +79,21 @@ TechStack :
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-
+</p>
 ### PocketDoc
 
 The goal of this project was to access to natural remedies depending on the symptom you are experiencing. The content of the app is purely informational. 
 I developed a React application with JSON Server, enabling symptom-based access to natural remedies for 8 symptoms.
 
 TeckStack : 
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON_Server-000000?style=for-the-badge&logo=json&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 <img src="https://img.shields.io/badge/PDF_Generation-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
 <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-
+</p>
 
 
 
